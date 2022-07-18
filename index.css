@@ -1,0 +1,15 @@
+.container{
+    width: 10%;
+    height: 10%;
+    font-size: 30px;
+}
+.container {
+    width: 600px;
+    margin: 10% auto;
+    padding: 5% 0;
+    color: #e7eafb;
+    text-align: center;
+    background-color: #202020;
+    box-shadow: 1px 0px 4px 2px #9c9a9a;
+    border-radius: 20p
+}
